@@ -1,8 +1,8 @@
-# Hi, I'm Max - GitHub Profile README
+# Hi, I'm Max
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Max and I am a developer advocate at Agora. I am passionate about creating open source tools for developers and love working with Swift.
+Welcome to my GitHub profile! I'm a developer advocate at Agora. I am passionate about creating open source tools for developers and love working with Swift.
 
 <picture>
 <source 

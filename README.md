@@ -49,6 +49,6 @@ Welcome to my GitHub profile! I'm a developer advocate at Agora. I am passionate
 ## 📫 How to reach me
 
 - Twitter: [@maxxfrazer](https://twitter.com/maxxfrazer)
-- LinkedIn: [Max Frazer](https://www.linkedin.com/in/maxxfrazer/)
+- LinkedIn: [Max Cobb](https://www.linkedin.com/in/maxxfrazer/)
 
 Thank you for visiting my GitHub profile!

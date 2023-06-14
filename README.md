@@ -32,7 +32,7 @@ Max is a developer advocate at Agora, and is passionate about creating open sour
 ## 🔭 Current Work
 
 - Building tools to improve the Developer Experience of Agora's products.
-- I'm currently working on improving RealityUI through third party Swift Packages.
+- I'm currently working on creating tools for developers to use RealityKit, with open source Swift Packages.
 
 ## 🌱 Learning
 

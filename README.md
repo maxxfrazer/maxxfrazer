@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm a developer advocate at Agora. I am passionate about creating open source tools for developers and love working with Swift.
+Welcome to my GitHub profile!
+
+Max is a developer advocate at Agora, and is passionate about creating open source tools for developers and love working with Swift.
 
 <picture>
 <source 

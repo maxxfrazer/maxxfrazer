@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to my GitHub profile!
+Welcome to Max's GitHub profile!
 
-Max is a developer advocate at Agora, and is passionate about creating open source tools for developers and love working with Swift.
+Max is working on ᯅ at , so cannot actively contribute to OSS.
 
 <picture>
 <source 
@@ -31,22 +31,15 @@ Max is a developer advocate at Agora, and is passionate about creating open sour
 
 ## 🔭 Current Work
 
-- Building tools to improve the Developer Experience of Agora's products.
-- I'm currently working on creating tools for developers to use RealityKit, with open source Swift Packages.
-
-## 🌱 Learning
-
-- I'm always learning new things, but lately I've been focusing on RealityKit, SwiftUI and DocC.
-
-## 👯 Collaboration
-
-- I'm open to collaborating on any open source projects.
+- Making RealityKit and visionOS the best platform for building Spatial/AR/VR/XR applications.
 
 ## 💬 Ask me about
 
 - Swift development
 - Augmented Reality with ARKit and RealityKit
 - Open source software
+
+> Do not ask me about unreleased software or products.
 
 ## 📫 How to reach me
 
